@@ -1,0 +1,105 @@
+
+body{
+  background: #ECEEF1;
+}
+.login-header {
+  float:right;
+}
+.login-aside {
+
+  display: inline-block;
+  font-size: 0.83em;
+  font-family: Arial, sans-serif;
+  color: #666;
+}
+a {
+  text-decoration: none;
+  color: #26e;
+}
+.btn {
+  color:white;
+  background-color: #0077C5;;
+  border-radius: 4px;
+  border: 1px solid #555;
+  text-align: center;
+  padding: 4px 15px;
+  float:right;
+  margin: 0 5px;
+  font-size: 0.95em;
+  font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, sans-serif;
+  cursor: pointer;
+}
+.login-button {
+
+}
+
+
+.signup {
+  max-width: 350px;
+  margin: auto;
+  background-color: white;
+}
+.signup-form {
+  border-radius: 4px;
+  border: 1px solid #aaa;
+  margin-top: -5px;
+}
+hgroup h1:nth-child(2) {
+  padding-top: 0px;
+  margin-top: -25px;
+}
+
+main {
+  position: absolute;
+  top: 70px;
+  width: 100%;
+  color: #5c5c5c;
+  font-family: AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-align: center;
+}
+main h1 {
+  font-weight: 400;
+}
+
+fieldset {
+  border: 0px;
+}
+input {
+  display: block;
+  width: 100%;
+  font-size: 1.5em;
+}
+label {
+  display: block;
+  text-align: left;
+  padding: 20px 0;
+}
+.terms {
+  font-size: 0.7em;
+  padding: 5px;
+}
+
+.recaptcha {
+  background: #ECEEF1;
+  font-size: 0.7em;
+  padding: 15px 0;
+}
+
+nav ul {
+  list-style-type: none;
+}
+nav ul li{
+  display: inline;
+}
+nav ul a {
+  color: #5c5c5c;
+}
+nav ul a:hover {
+  text-decoration: underline;
+}
+.main-footer {
+  font-size: 0.7em;
+}
+footer p {
+  margin-top: -1em;
+}
